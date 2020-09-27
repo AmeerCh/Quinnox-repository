@@ -6,8 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="text-align: center;">Registration Page</h1>
+<<<<<<< HEAD
     <h1>Registration Page</h1>
+=======
+    <h1 style="text-align: center;">Registration Page</h1>
+>>>>>>> update
     <table>
         <tr>
             <td>UserName</td>
